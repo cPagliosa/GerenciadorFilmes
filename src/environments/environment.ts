@@ -1,0 +1,4 @@
+export const environment = {
+  profuction: true,
+  API_KEI: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YmVjMDQ3ODlhMzY2ZmEwODY1ZDkxM2FlM2I2ZGRhNSIsIm5iZiI6MTcyNzcxNzQ5NS44NzMyOSwic3ViIjoiNjZmYWRjM2Q4MDdjZDUxYzE3ZjE5OGFhIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.jezyflWRYzokzUBUwM2BbjNOATTUgPEhlv98jhjFZ9I',
+};
